@@ -1,1 +1,1 @@
- worker: MeMoRBG.js
+ worker: node MeMoRBG.js
