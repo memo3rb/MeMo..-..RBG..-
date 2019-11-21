@@ -30,4 +30,4 @@ client.user.setStatus("online")
 
 
 
-client.login(NTUxMzc4MTc2MTk1MTY2MjE5.Xc2cqA.aN4xgPYQexE9N5MzDTE9MEln8vc);
+client.login(process.env.BOT_TOKEN);
