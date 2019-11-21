@@ -30,4 +30,4 @@ client.user.setStatus("online")
 
 
 
-client.login("Tokens");
+client.login("BOT_TOKEN");
