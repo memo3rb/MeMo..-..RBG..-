@@ -1,10 +1,10 @@
 {
-  "name": "Your Name",
-  "description": "AnyThing",
-  "version": "0.0.0",
-  "main": "bot.js",
+  "name": "MeMo3RB",
+  "description": "BrodCast",
+  "version": "1.0.0",
+  "main": "MeMoRBG.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node MeMoRBG.js"
   },
   "dependencies": {
    "discord.js": "^11.3.2",
