@@ -1,0 +1,1 @@
+ worker: MeMoRBG.js
